@@ -1,6 +1,15 @@
 # part1-chapter4
 응급의료정보 앱
 
+데이터 저장 및 불러오기
+<img src="https://user-images.githubusercontent.com/24618293/197409325-89013c32-5221-41cc-a94a-bc8db9afa916.gif" width="300">
+
+전화 앱 실행하기
+<img src="https://user-images.githubusercontent.com/24618293/197409413-d9e5c63b-a931-49c2-8043-c463c13ac826.gif" width="300">
+
+데이터 삭제하기
+<img src="https://user-images.githubusercontent.com/24618293/197409416-b8a2bfd9-10b9-426b-aaa1-1558eb1fc7e3.gif" width="300">
+
 # Chapter 0. 개요
 
 ### 구현기능
