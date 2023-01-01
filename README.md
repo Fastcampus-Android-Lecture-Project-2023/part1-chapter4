@@ -58,3 +58,12 @@
         - [전화 앱 실행](https://developer.android.com/guide/components/intents-common?hl=ko#DialPhone)
     - [SharedPreference](https://developer.android.com/training/data-storage/shared-preferences?hl=ko)
     - Toast
+
+
+# Chapter 2. 한 걸음 더
+    1. Intent 로 할 수 있는 다양한 동작에 대해 학습해보세요
+        - https://developer.android.com/reference/android/content/Intent?hl=ko
+    2. Manifest 에 들어가는 다양한 값들에 대해 학습해보세요
+        - https://developer.android.com/guide/topics/manifest/manifest-intro#reference
+    3. Kotlin 의 다양한 ScopeFunction 에 대해 학습해보세요
+        - https://kotlinlang.org/docs/scope-functions.html
